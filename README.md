@@ -21,6 +21,7 @@ A fun and interactive dice-rolling app built using **React.js**. Click to roll, 
 
 ## 📁 Project Structure
 
+```
 DICEROLL/
 ├── node_modules/
 ├── public/...
@@ -34,24 +35,29 @@ DICEROLL/
 │   └── App.js
 ├── package.json
 └── README.md
-
+```
 
 ## 📦 Installation & Running the App
 
 1. Clone the repo:
-   
+   ```
    git clone https://github.com/abhishekpnaik05/Dice-Roll.git
    cd diceroll
+   ```
 
 2. Install dependencies:
-
+   ```
    npm install
+   ```
 
 3. Start the development server:
-
+   ```
    npm start
+   ```
 
 4. Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+---
 
 ## 🧑‍💻 Author
 
